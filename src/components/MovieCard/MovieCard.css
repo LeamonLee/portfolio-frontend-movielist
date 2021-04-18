@@ -1,0 +1,4 @@
+.subTitle {
+  display: flex;
+  justify-content: space-between;
+}
